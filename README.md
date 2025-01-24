@@ -1,17 +1,12 @@
 
-
 #  K-Means Clustering Algorithm  
-
 
 ## Overview  
 This project demonstrates the implementation of the **K-Means Clustering algorithm** from scratch in Python.  
 
-
-
 ## Objectives  
 - Write a Python implementation of the K-Means clustering algorithm without using libraries.  
 - Apply the algorithm to the provided dataset for student clustering.  
-
 
 
 ## Dataset  
