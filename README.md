@@ -13,7 +13,6 @@ This project demonstrates the implementation of the **K-Means Clustering algorit
 - **student_clustering.csv**: Contains data used to perform clustering tasks.  
 
 
-
 ## Files Included  
 
 | File Name                 | Description                                      |
